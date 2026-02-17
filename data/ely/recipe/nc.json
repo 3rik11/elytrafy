@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "abc"
+  ],
+  "key": {
+    "a": "minecraft:elytra",
+    "b": "minecraft:nether_star",
+    "c": "minecraft:netherite_chestplate"
+  },
+  "result": {
+    "id": "minecraft:netherite_chestplate",
+    "components": {
+      "minecraft:glider": {}
+    }
+  }
+}
