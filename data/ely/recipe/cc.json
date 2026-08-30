@@ -1,14 +1,8 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "pattern": [
-    "   ",
-    "abc"
-  ],
-  "key": {
-    "a": "minecraft:elytra",
-    "b": "minecraft:nether_star",
-    "c": "minecraft:chainmail_chestplate"
-  },
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:nether_star",
+  "base": "minecraft:chainmail_chestplate",
+  "addition": "minecraft:elytra",
   "result": {
     "id": "minecraft:chainmail_chestplate",
     "components": {
